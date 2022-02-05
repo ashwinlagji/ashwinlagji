@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashwinlagji](https://github.com/ashwinlagji)
 
-- 💬 Ask me about **Angular, Javascript, Typescript**
+- 💬 Ask me about **Java, NodeJS, Javascript, Typescript, Angular, React **
 
 - 📫 How to reach me **ashwinlagji@gmail.com**
 
